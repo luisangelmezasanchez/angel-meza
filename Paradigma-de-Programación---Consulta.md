@@ -25,4 +25,8 @@ En general la mayoría son variantes de los dos tipos principales, imperativa y 
 
 ### Programación funcional: Basada en la utilización de funciones aritméticas que no manejan datos mutables o estados. Este paradigma lo soportan lenguajes como ‘Haskell’ y ‘Lisp’.
 
-### Programación lógica: 
+### Programación lógica: Basado en relaciones lógicas, esta representados por Prolog.
+
+### Programación multiparadigma: Es el uso de dos o más paradigmas dentro de un programa. El lenguaje Lisp se considera multiparadigma igual que Python.
+
+### Lenguaje específico del dominio o DSL: Los lenguajes desarrollados para resolver un problema específico, SQL para el manejo de las bases de datos.
