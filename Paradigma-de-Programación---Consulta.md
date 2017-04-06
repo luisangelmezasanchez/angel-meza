@@ -32,7 +32,7 @@ Describir el problema declarando propiedades y reglas que deben cumplirse, en lu
 Basada en la utilización de funciones aritméticas que no manejan datos mutables o estados. Este paradigma lo soportan lenguajes como ‘Haskell’ y ‘Lisp’.
 
 ### Programación lógica: 
-Basado en relaciones lógicas, esta representados por Prolog.
+Basado en relaciones lógicas, esta representados por Prolog. La ejecución consiste en la resolución de un problema de decision los resultados se obtienen mediante la resolución de un problema 
 
 ### Programación multiparadigma: 
 Es el uso de dos o más paradigmas dentro de un programa. El lenguaje Lisp se considera multiparadigma igual que Python.
