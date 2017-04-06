@@ -27,17 +27,14 @@ El proceso de romper problemas en partes pequeñas para analizarlos y resolverlo
 ### Programación dirigida por eventos: 
 La estructura como la ejecución de los programas van determinados por los sucesos que ocurran en el sistema.
 
-### Programación declarativa: 
+### * Programación declarativa: 
 Describir el problema declarando un conjunto de condiciones, proposiciones, afirmaciones, restricciones, ecuaciones, transformaciones propiedades y reglas que deben cumplirse, en lugar de instrucciones.
 
-### Programación funcional: 
+### * Programación funcional: 
 Basada en la utilización de funciones aritméticas que no manejan datos mutables o estados. Este paradigma lo soportan lenguajes como ‘Haskell’ y ‘Lisp’.
 
-### Programación lógica: 
+### * Programación lógica: 
 Basado en relaciones lógicas, esta representados por Prolog. La ejecución consiste en la resolución de un problema de decision los resultados se obtienen mediante la resolución de un problema 
 
-### Programación multiparadigma: 
+### * Programación multiparadigma: 
 Es el uso de dos o más paradigmas dentro de un programa. El lenguaje Lisp se considera multiparadigma igual que Python.
-
-### Lenguaje específico del dominio o DSL: 
-Los lenguajes desarrollados para resolver un problema específico, SQL para el manejo de las bases de datos.
