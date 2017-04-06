@@ -28,7 +28,7 @@ El proceso de romper problemas en partes pequeñas para analizarlos y resolverlo
 La estructura como la ejecución de los programas van determinados por los sucesos que ocurran en el sistema.
 
 ### Programación declarativa: 
-Describir el problema declarando propiedades y reglas que deben cumplirse, en lugar de instrucciones.
+Describir el problema declarando un conjunto de condiciones, proposiciones, afirmaciones, restricciones, ecuaciones, transformaciones propiedades y reglas que deben cumplirse, en lugar de instrucciones.
 
 ### Programación funcional: 
 Basada en la utilización de funciones aritméticas que no manejan datos mutables o estados. Este paradigma lo soportan lenguajes como ‘Haskell’ y ‘Lisp’.
