@@ -9,6 +9,8 @@ El núcleo central es la unión de datos y procesamiento en una entidad llamada 
 
 Con la OO y características como el encapsulado, polimorfismo o la herencia, se permitió un avance significativo en el desarrollo de software a cualquier escala de producción.
 
+
+
 ## Tipos más comunes de paradigmas de programación
 
 En general la mayoría son variantes de los dos tipos principales, imperativa y declarativa.
