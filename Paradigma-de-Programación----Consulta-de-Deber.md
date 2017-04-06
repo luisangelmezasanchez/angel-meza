@@ -15,16 +15,16 @@ Con la OO y características como el encapsulado, polimorfismo o la herencia, se
 
 En general la mayoría son variantes de los dos tipos principales, imperativa y declarativa.
 
-### Programación imperactiva: 
+### * Programación imperactiva: 
 Es el más usado se basa en dar instrucciones al ordenador, hacer las cosas en forma de algoritmos, el ejemplo principal es el lenguaje de máquina.
 
-### Programación orientada a objetos: 
+### * Programación orientada a objetos: 
 Está basada en el imperativo, pero encapsula elementos denominados objetos que incluyen tanto variables como funciones. Está representado por C++, C#, Java o Python y Smalltalk.
 
-### Programación dinámica: 
+### * Programación dinámica: 
 El proceso de romper problemas en partes pequeñas para analizarlos y resolverlos de forma lo más cercana al óptimo, sin usar por tanto métodos recursivos.
 
-### Programación dirigida por eventos: 
+### * Programación dirigida por eventos: 
 La estructura como la ejecución de los programas van determinados por los sucesos que ocurran en el sistema.
 
 ### * Programación declarativa: 
