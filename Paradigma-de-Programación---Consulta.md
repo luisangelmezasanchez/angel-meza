@@ -13,7 +13,7 @@ Con la OO y características como el encapsulado, polimorfismo o la herencia, se
 
 En general la mayoría son variantes de los dos tipos principales, imperativa y declarativa.
 
-### Programación imperativa: 
+### Programación imperactiva: 
 Es el más usado se basa en dar instrucciones al ordenador, hacer las cosas en forma de algoritmos, el ejemplo principal es el lenguaje de máquina.
 
 ### Programación orientada a objetos: 
