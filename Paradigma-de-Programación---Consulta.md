@@ -13,20 +13,29 @@ Con la OO y características como el encapsulado, polimorfismo o la herencia, se
 
 En general la mayoría son variantes de los dos tipos principales, imperativa y declarativa.
 
-### Programación imperativa: Es el más usado se basa en dar instrucciones al ordenador, hacer las cosas en forma de algoritmos, el ejemplo principal es el lenguaje de máquina.
+### Programación imperativa: 
+Es el más usado se basa en dar instrucciones al ordenador, hacer las cosas en forma de algoritmos, el ejemplo principal es el lenguaje de máquina.
 
-### Programación orientada a objetos: Está basada en el imperativo, pero encapsula elementos denominados objetos que incluyen tanto variables como funciones. Está representado por C++, C#, Java o Python y Smalltalk.
+### Programación orientada a objetos: 
+Está basada en el imperativo, pero encapsula elementos denominados objetos que incluyen tanto variables como funciones. Está representado por C++, C#, Java o Python y Smalltalk.
 
-### Programación dinámica: El proceso de romper problemas en partes pequeñas para analizarlos y resolverlos de forma lo más cercana al óptimo, sin usar por tanto métodos recursivos.
+### Programación dinámica: 
+El proceso de romper problemas en partes pequeñas para analizarlos y resolverlos de forma lo más cercana al óptimo, sin usar por tanto métodos recursivos.
 
-### Programación dirigida por eventos: La estructura como la ejecución de los programas van determinados por los sucesos que ocurran en el sistema.
+### Programación dirigida por eventos: 
+La estructura como la ejecución de los programas van determinados por los sucesos que ocurran en el sistema.
 
-### Programación declarativa: Describir el problema declarando propiedades y reglas que deben cumplirse, en lugar de instrucciones.
+### Programación declarativa: 
+Describir el problema declarando propiedades y reglas que deben cumplirse, en lugar de instrucciones.
 
-### Programación funcional: Basada en la utilización de funciones aritméticas que no manejan datos mutables o estados. Este paradigma lo soportan lenguajes como ‘Haskell’ y ‘Lisp’.
+### Programación funcional: 
+Basada en la utilización de funciones aritméticas que no manejan datos mutables o estados. Este paradigma lo soportan lenguajes como ‘Haskell’ y ‘Lisp’.
 
-### Programación lógica: Basado en relaciones lógicas, esta representados por Prolog.
+### Programación lógica: 
+Basado en relaciones lógicas, esta representados por Prolog.
 
-### Programación multiparadigma: Es el uso de dos o más paradigmas dentro de un programa. El lenguaje Lisp se considera multiparadigma igual que Python.
+### Programación multiparadigma: 
+Es el uso de dos o más paradigmas dentro de un programa. El lenguaje Lisp se considera multiparadigma igual que Python.
 
-### Lenguaje específico del dominio o DSL: Los lenguajes desarrollados para resolver un problema específico, SQL para el manejo de las bases de datos.
+### Lenguaje específico del dominio o DSL: 
+Los lenguajes desarrollados para resolver un problema específico, SQL para el manejo de las bases de datos.
