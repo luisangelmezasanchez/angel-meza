@@ -1,0 +1,1 @@
+## * Instalar Python en GNU/Linux:
