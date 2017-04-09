@@ -11,9 +11,7 @@ Con la OO y características como el encapsulado, polimorfismo o la herencia, se
 
 ## Los paradigmas de programación se clasificanen cuatro tipos los cuales son:
 
-En general la mayoría son variantes de los dos tipos principales, imperativa y declarativa.
-
-### * Paradigma imperativa: 
+### * Paradigma imperativo: 
 Es el más usado se basa en dar instrucciones al ordenador, hacer las cosas en forma de algoritmos, el ejemplo principal es el lenguaje de máquina.
 
 ### * Paradigma orientada a objetos: 
