@@ -1,1 +1,1 @@
-## * Instalar Python en Windows 7:
+## * Instalar Java en GNU/Linux:
