@@ -1,4 +1,6 @@
-# Paradigma de programación
+## Paradigma de programación
+### Un paradigma de programación es simplemente una manera de pensar que tienen los programadores. A travez del tiempo ellos han creado diferentes estilos propios de programar los cuales han sido diferenciados por reglas y conceptos que son aplicados para realizar un programa o aplicación
+
 Un paradigma de programación es una propuesta tecnológica adoptada por programadores y desarrolladores cuyo núcleo central únicamente trata de resolver problemas claramente delimitados la resolución debe suponer consecuentemente un avance significativo a la ingeniería de software.
 
 Representa un enfoque particular para diseñar soluciones, difieren unos de otros, en los conceptos y la forma de abstraer elementos involucrados en un problema, así como en los pasos que integran su solución.
