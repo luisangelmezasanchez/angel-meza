@@ -9,7 +9,7 @@ Con la OO y características como el encapsulado, polimorfismo o la herencia, se
 
 
 
-## Tipos más comunes de paradigmas de programación
+## Los paradigmas de programación se clasificanen cuatro tipos los cuales son:
 
 En general la mayoría son variantes de los dos tipos principales, imperativa y declarativa.
 
