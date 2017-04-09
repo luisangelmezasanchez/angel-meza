@@ -1,4 +1,4 @@
-## Paradigma de programación
+> ## Paradigma de programación
 Un paradigma de programación es simplemente una manera de pensar que tienen los programadores. A travez del tiempo ellos han creado diferentes estilos propios de programar los cuales han sido diferenciados por reglas y conceptos que son aplicados para realizar un programa o aplicación.
 
 Cuyo núcleo central únicamente trata de resolver problemas claramente delimitados la resolución debe suponer consecuentemente un avance significativo a la ingeniería de software.
@@ -22,6 +22,3 @@ La programación funcional logra su trabajo utilizando funciones puras, translad
 
 ### * Programación lógica: 
 Basado en relaciones lógicas, esta representados por Prolog. La ejecución consiste en la resolución de un problema de decision los resultados se obtienen mediante la resolución de un problema 
-
-### * Programación multiparadigma: 
-Es el uso de dos o más paradigmas dentro de un programa. El lenguaje Lisp se considera multiparadigma igual que Python.
