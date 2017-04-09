@@ -5,8 +5,6 @@ Cuyo núcleo central únicamente trata de resolver problemas claramente delimita
 
 Representa un enfoque particular para diseñar soluciones, difieren unos de otros, en los conceptos y la forma de abstraer elementos involucrados en un problema, así como en los pasos que integran su solución, está delimitado en el tiempo en cuanto a aceptación y uso, actualmente es el más utilizado es la "orientación a objetos.
 
-El núcleo central es la unión de datos y procesamiento en una entidad llamada "objeto" (OO), relacionable con otras entidades "objeto".
-
 Con la OO y características como el encapsulado, polimorfismo o la herencia, se permitió un avance significativo en el desarrollo de software a cualquier escala de producción.
 
 
