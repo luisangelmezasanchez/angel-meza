@@ -18,7 +18,7 @@ Imperar significa mandar, ordenar y eso es exactamente lo que hacemos al program
 Son soluciones computables de una forma más parecida a las utilizamos en la vida real, ya que nosotros concebimos nuestro mundo como un conjunto de objetos o cosas con propiedades y atributos que los definen como tal.
 
 ### * Programación funcional: 
-Basada en la utilización de funciones aritméticas que no manejan datos mutables o estados. Este paradigma lo soportan lenguajes como ‘Haskell’ y ‘Lisp’.
+La programación funcional logra su trabajo utilizando funciones puras, transladando el conceptop de función matemática a la programación. Un ejemplo muy simple es cuando resuelves una operación complicada con funciones en una hoja de cálculo.
 
 ### * Programación lógica: 
 Basado en relaciones lógicas, esta representados por Prolog. La ejecución consiste en la resolución de un problema de decision los resultados se obtienen mediante la resolución de un problema 
