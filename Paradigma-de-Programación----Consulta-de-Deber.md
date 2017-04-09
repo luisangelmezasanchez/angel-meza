@@ -15,16 +15,7 @@ Con la OO y características como el encapsulado, polimorfismo o la herencia, se
 Imperar significa mandar, ordenar y eso es exactamente lo que hacemos al programar de forma imperativa, ordenarle a la computadora algo que queremos que haga.
 
 ### * Paradigma orientada a objetos: 
-Está basada en el imperativo, pero encapsula elementos denominados objetos que incluyen tanto variables como funciones. Está representado por C++, C#, Java o Python y Smalltalk.
-
-### * Programación dinámica: 
-El proceso de romper problemas en partes pequeñas para analizarlos y resolverlos de forma lo más cercana al óptimo, sin usar por tanto métodos recursivos.
-
-### * Programación dirigida por eventos: 
-La estructura como la ejecución de los programas van determinados por los sucesos que ocurran en el sistema.
-
-### * Programación declarativa: 
-Describir el problema declarando un conjunto de condiciones, proposiciones, afirmaciones, restricciones, ecuaciones, transformaciones propiedades y reglas que deben cumplirse, en lugar de instrucciones.
+Son soluciones computables de una forma más parecida a las utilizamos en la vida real, ya que nosotros concebimos nuestro mundo como un conjunto de objetos o cosas con propiedades y atributos que los definen como tal.
 
 ### * Programación funcional: 
 Basada en la utilización de funciones aritméticas que no manejan datos mutables o estados. Este paradigma lo soportan lenguajes como ‘Haskell’ y ‘Lisp’.
