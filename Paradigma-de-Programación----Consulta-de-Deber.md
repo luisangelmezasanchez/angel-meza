@@ -21,4 +21,4 @@ Son soluciones computables de una forma más parecida a las utilizamos en la vid
 La programación funcional logra su trabajo utilizando funciones puras, transladando el conceptop de función matemática a la programación. Un ejemplo muy simple es cuando resuelves una operación complicada con funciones en una hoja de cálculo.
 
 ### * Programación lógica: 
-Basado en relaciones lógicas, esta representados por Prolog. La ejecución consiste en la resolución de un problema de decision los resultados se obtienen mediante la resolución de un problema 
+Utiliza la lógica matemática que es considerada la manera más sencilla para el intelecto humano de expresar formalmente problemas complejos y de resolverlos mediante la aplicación de regla, hipótesis y teoremas.
