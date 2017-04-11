@@ -1,4 +1,4 @@
-# PARADIGMAS DE PROGRAMACIÓN
+## ¿QUÉ ES UN PARADIGMA DE PROGRAMACIÓN?
 ![](https://lh3.googleusercontent.com/AYdmoH1ZlnRhDYbCUsvfLmoVA1hV1625WXATb4MgU5vWzqp-RoxJDbNWxahkshgS41r25VmIi8IigygreketU3xvQU-3s7XsCexLTNs_68tWZta6bnBcjpLkW39q0mi5muJa_qCQs9_YIeLwvHrb6sedANyDIBTBDP05LBMki2vlvxOvS2DkQzQtXlVG8FIcO4n-ophyKeeoIUUac_my8H0lCK3D19wIWMrPoojO-kvT91g8pYozDcnom5I7IUPhTQ6xgqJkT8xSfMhPZveiQW8kiXLm1lwwhNtMsj4PJN7ujJB7oex6KtR5nyCPEKvT2So0Pggxq50bEBJxSUV4jg-njgI2mnC8uQf58LCsuQHuKzfXGnBQVfM2OFFNJVV7y6L7hklqKz0zhXYmS1wnagExpQdZZzjschAfYwslZLW1DWVwL00rBt-A2X6FY9Xm9lqvcVjcYsVdIx0uaoaVXLxv1A3CYucl-eNW3lTs_u60nIsmb4RLSWJUIDiXSsNoHBkGS0EpO9JT13s1nre8oT80Jy3P5i3AYNDYP-x3lTuSTT1Ms7jA_9VAisdLgGMfZ6mVuj19lsVMDRsMP5_JR60_0iGH1KlQKvrxHslvcyB_-dUwbMFD=w600-h424-no)
 
 Un paradigma de programación es simplemente una manera de pensar que tienen los programadores. A travez del tiempo ellos han creado diferentes estilos propios de programar los cuales han sido diferenciados por reglas y conceptos que son aplicados para realizar un programa o aplicación.
@@ -10,7 +10,7 @@ Representa un enfoque particular para diseñar soluciones, difieren unos de otro
 Con la OO y características como el encapsulado, polimorfismo o la herencia, se permitió un avance significativo en el desarrollo de software a cualquier escala de producción.
 
 
-# Los paradigmas de programación se clasificanen cuatro tipos los cuales son:
+# Los paradigmas de programación se clasifican en cuatro tipos los cuales son:
 
 ##  * Paradigma Imperativo: 
 ![](https://lh3.googleusercontent.com/uDKUgSVnLh8el0bEIU2uOLeihkEx7T9eDhTOQTW_bOpE3lOiaO5E_x86sZon9XxcJK3diuJqXG9vJLdYyXDSqWBi9-S9eqwaWzrSUHFNXulhPSD99EO0dmkIG-0oa5nNDkeDd7V7HAWxnS5J6mnko2kInpT25Jg07fd1RI9SGB45xltfYzz1JpjZmBufjWerS8QYm8QaoY4DfpQOm5rlOqZTFaFOfMsiFDAEfgryFMy4Zz7s7nJ-EPQbzchl3Ypsq4yvr6HF44zTzE0Ilv0-92w7oZ_XG54nB_U5bEbHJa1sHFYkzCGupI9Fn0S5vbOEyw8wThJhY3yhYbuWct1c_axhFDu3XO1qBFKAwgvAcCDv6f9mNh_HTbU_lA50ss21_ssnAzad7oTPdo_i0PzdcQ8KBnv3NznBL5jhEjArnNOOJo_zwQPLeo4TaTnjveZ_gULKS_c3kd273A9BcHLltEsHOjLprYE59fmecoileBGbRKUCWS9JFmZ7ojo97zfETjfkXrRTG63ss4ZwBc0O6kEYHHdh8pE3wdbU6jf6hy0O0lSKNCMeJtA0HZMINAZplfcyPUH-0RRAp_AV-L2jus1uNqhjKMx5fkBv22TWiy50VYm3U7uN=w775-h440-no)
