@@ -34,3 +34,8 @@ La programación funcional logra su trabajo utilizando funciones puras, translad
 ### *********** CÓDIGO EJEMPLO DE PROLOG: *************
 
 Utiliza la lógica matemática que es considerada la manera más sencilla para el intelecto humano de expresar formalmente problemas complejos y de resolverlos mediante la aplicación de regla, hipótesis y teoremas.
+
+# BIBLIOGRAFÍAS
+## PARADIGMAS DE PROGRAMACIÓN
+### Los Paradigmas de Programación
+https://www.youtube.com/watch?v=xmhzpk4pvPE
