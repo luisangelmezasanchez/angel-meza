@@ -13,6 +13,7 @@ Con la OO y características como el encapsulado, polimorfismo o la herencia, se
 ## Los paradigmas de programación se clasificanen cuatro tipos los cuales son:
 
 ### * Paradigma imperativo: 
+*********** CÁLCULO DE OPERACIÓN  *************
 ![](https://lh3.googleusercontent.com/uDKUgSVnLh8el0bEIU2uOLeihkEx7T9eDhTOQTW_bOpE3lOiaO5E_x86sZon9XxcJK3diuJqXG9vJLdYyXDSqWBi9-S9eqwaWzrSUHFNXulhPSD99EO0dmkIG-0oa5nNDkeDd7V7HAWxnS5J6mnko2kInpT25Jg07fd1RI9SGB45xltfYzz1JpjZmBufjWerS8QYm8QaoY4DfpQOm5rlOqZTFaFOfMsiFDAEfgryFMy4Zz7s7nJ-EPQbzchl3Ypsq4yvr6HF44zTzE0Ilv0-92w7oZ_XG54nB_U5bEbHJa1sHFYkzCGupI9Fn0S5vbOEyw8wThJhY3yhYbuWct1c_axhFDu3XO1qBFKAwgvAcCDv6f9mNh_HTbU_lA50ss21_ssnAzad7oTPdo_i0PzdcQ8KBnv3NznBL5jhEjArnNOOJo_zwQPLeo4TaTnjveZ_gULKS_c3kd273A9BcHLltEsHOjLprYE59fmecoileBGbRKUCWS9JFmZ7ojo97zfETjfkXrRTG63ss4ZwBc0O6kEYHHdh8pE3wdbU6jf6hy0O0lSKNCMeJtA0HZMINAZplfcyPUH-0RRAp_AV-L2jus1uNqhjKMx5fkBv22TWiy50VYm3U7uN=w775-h440-no)
 
 Imperar significa mandar, ordenar y eso es exactamente lo que hacemos al programar de forma imperativa, ordenarle a la computadora algo que queremos que haga.
