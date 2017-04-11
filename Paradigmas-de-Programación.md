@@ -19,11 +19,13 @@ Imperar significa mandar, ordenar y eso es exactamente lo que hacemos al program
 
 ### * Paradigma orientada a objetos: 
 ![](https://lh3.googleusercontent.com/HReChxJtF6ytvo2x34b-4xUW9tOCY2zQauERZcAvCIJSHOotrONM-mE0ZuMn79IXO-eJxe4O3Da8e-0Ncx-oyYsv4n4VJpR_9LPUKwzcuX1gcHzraWnC8v52WbsSem8bn9S9-_s9wUsp1dOk-yelUo_pRfbPZHgnnsffpg7Km4n-4qdxyaI5620ec5l6w11N-yDo6wdPDQND1nrQ3wB2tzJ55xBMr8RMi18DzIj2ACgGP76PdurUQdNyvl7JPFDOJwvQR1GaF1W5TDpt7CqW1ZNP1uXgriXavF8aaQn7BOTknxjQfICx8NVRGjn1CThgLE4unKgTNQ96bJ6C7gYFEaQFVKELXfTYhCghI3TQSVoFQEpO9QjS8o0kw4ClxHDhV0Ezva6CmbVpk9SQy--niZ7lJ7C32f71ZxrwrzkwSjbO3mOBAMzTb0BCD1ANb813XjLyxcgY_nkw6ozE45GEr3MOV-qlTanHTHm65w-qXX33xX0aMEHNdJe1ta-ATNiMm8fglOuI0mXtdZzvUXldWEclFulAQUjDKpmAbM9fElmeLZVriAHp8cBB9HIv_2w3Go0s7MCrFCdHqWXjjOD70BQaeqvu_TxffpOUrbJ7rEQqWo5yKeCu=w671-h521-no)
+*********** CÓDIGO ORIENTADO A OBJETOS EN JAVA: *************
 
 Son soluciones computables de una forma más parecida a las utilizamos en la vida real, ya que nosotros concebimos nuestro mundo como un conjunto de objetos o cosas con propiedades y atributos que los definen como tal.
 
 ### * Paragidma funcional: 
 ![](https://lh3.googleusercontent.com/xpQgqr7Pkufem-8aQWcWUTRhekmwJVCDr5Uq_CjZBx5emB8OAP6ctnn4XQDy3xJqHhXZPQuNIiT0jIb3Au-g-uwBObsahEEAgpOvGTt3zZjMEyxyxgol8MB8DZdFWd8kgzQkwSdKcJosDp9kmMOWnL6mMgxKBO6B6-Eee3L7eBP48E0kfNSHt8Du04qpZYhbEUi1yHDfzRignnO-4Lr_fqgDmGeREDNdxxxr4Dm5K2Ff234Svv2dEeKIfznYIiSgsjqm7rztkwsyga-ye6pIwyZZX3nKAyUckM7akB4N0f1-yiWQSlGXMgm_z8nRTxMnlebeMR5FIfjmBYEiNahGjrfVDE_iSDeG7TihERlDuyPeEnrywLtqOfD5YsGCK0l9Ic5J0zKZN-iy8mq0R-KUJtpCvrjGMgWCkEonuIDFkL1Zokzm9eApouSrtO5_ebM2yDDgiYXlnwTULDEj31Y64P2tUfBWjmKVkbKMDzZbUYyVC7z_ktbijPIq7eU-EOWNStlNE2ArTi6apN-nZQD17U6bJ3-xxsVG4vfkhSuOwdMJrel8Kj-HjjirepUwex38wepj439M8rIxYF2iPcVtsWM7lliuueGvaPbTRLqXGXvEyuSqMS2Q=w650-h175-no)
+*********** CÓDIGO FUNCIONAL EN HASKELL: *************
 
 La programación funcional logra su trabajo utilizando funciones puras, transladando el conceptop de función matemática a la programación. Un ejemplo muy simple es cuando resuelves una operación complicada con funciones en una hoja de cálculo.
 
