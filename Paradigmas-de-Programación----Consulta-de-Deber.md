@@ -22,12 +22,12 @@ Imperar significa mandar, ordenar y eso es exactamente lo que hacemos al program
 
 Son soluciones computables de una forma más parecida a las utilizamos en la vida real, ya que nosotros concebimos nuestro mundo como un conjunto de objetos o cosas con propiedades y atributos que los definen como tal.
 
-### * Programación funcional: 
+### * Paragidma funcional: 
 ![](https://lh3.googleusercontent.com/xpQgqr7Pkufem-8aQWcWUTRhekmwJVCDr5Uq_CjZBx5emB8OAP6ctnn4XQDy3xJqHhXZPQuNIiT0jIb3Au-g-uwBObsahEEAgpOvGTt3zZjMEyxyxgol8MB8DZdFWd8kgzQkwSdKcJosDp9kmMOWnL6mMgxKBO6B6-Eee3L7eBP48E0kfNSHt8Du04qpZYhbEUi1yHDfzRignnO-4Lr_fqgDmGeREDNdxxxr4Dm5K2Ff234Svv2dEeKIfznYIiSgsjqm7rztkwsyga-ye6pIwyZZX3nKAyUckM7akB4N0f1-yiWQSlGXMgm_z8nRTxMnlebeMR5FIfjmBYEiNahGjrfVDE_iSDeG7TihERlDuyPeEnrywLtqOfD5YsGCK0l9Ic5J0zKZN-iy8mq0R-KUJtpCvrjGMgWCkEonuIDFkL1Zokzm9eApouSrtO5_ebM2yDDgiYXlnwTULDEj31Y64P2tUfBWjmKVkbKMDzZbUYyVC7z_ktbijPIq7eU-EOWNStlNE2ArTi6apN-nZQD17U6bJ3-xxsVG4vfkhSuOwdMJrel8Kj-HjjirepUwex38wepj439M8rIxYF2iPcVtsWM7lliuueGvaPbTRLqXGXvEyuSqMS2Q=w650-h175-no)
 
 La programación funcional logra su trabajo utilizando funciones puras, transladando el conceptop de función matemática a la programación. Un ejemplo muy simple es cuando resuelves una operación complicada con funciones en una hoja de cálculo.
 
-### * Programación lógica: 
+### * Paradigma lógico: 
 ![](https://lh3.googleusercontent.com/yFSfi-s2nzYyU4GYwXHQTsXQKxBeYk5Rb9u0f3J4nnnK7EAXPLwgyR_tTIz4YR4y1OKFIdukmKvihVwAaU3KQxiif_PpM0wEyN26C1Z9s2pIFB4O_aQ-rx6B5ILkjMDKmb_lcjzt6xPt1rArNdzSz3_R84xmx55Yljug6j9qIbpEDIXrqHez29vFGlxBV6aEoqVL9ZYy_SJ8Ip4EKmHvlpYMYDilrZ9crGb38mkekG6nyzdSCRp31sg6QxSKtRGe6eE-Q_MA7pi-1p-bgyOIaN8skNYuev8-2YRhV6FciPSom7d1oZvcd-S-U4HikIqoeFdQRTrlP8D34zj3MBRr_ZlEcDuWhtq_GC1KmAtRVGDkwgNhJhZ8PSs80bbyBPnc_p4iDwWc_ddCF3RAVjv6r5ZtmfBUADzdEx3GtOPZBEkzpDT0tD5tGzeqHAdZuqA0rFEqSA6CBurAxhrf99V672Cp544MHFyR6RPaWdeYZqC_p2QunGYF074ck4bizbaAzG2dIme0uK0VpRFI6OdB8y7qnllNytQugUQxfYEQIG7e4QuJlC_Ts8om3tOHeXnTQa4_RkZeollTcQ5xLF_1SMkWQx_0cqatWNww9HnsdoKoafc_nKfC=w549-h100-no)
 
 Utiliza la lógica matemática que es considerada la manera más sencilla para el intelecto humano de expresar formalmente problemas complejos y de resolverlos mediante la aplicación de regla, hipótesis y teoremas.
