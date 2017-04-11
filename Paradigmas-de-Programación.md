@@ -29,5 +29,6 @@ La programación funcional logra su trabajo utilizando funciones puras, translad
 
 ### * Paradigma lógico: 
 ![](https://lh3.googleusercontent.com/yFSfi-s2nzYyU4GYwXHQTsXQKxBeYk5Rb9u0f3J4nnnK7EAXPLwgyR_tTIz4YR4y1OKFIdukmKvihVwAaU3KQxiif_PpM0wEyN26C1Z9s2pIFB4O_aQ-rx6B5ILkjMDKmb_lcjzt6xPt1rArNdzSz3_R84xmx55Yljug6j9qIbpEDIXrqHez29vFGlxBV6aEoqVL9ZYy_SJ8Ip4EKmHvlpYMYDilrZ9crGb38mkekG6nyzdSCRp31sg6QxSKtRGe6eE-Q_MA7pi-1p-bgyOIaN8skNYuev8-2YRhV6FciPSom7d1oZvcd-S-U4HikIqoeFdQRTrlP8D34zj3MBRr_ZlEcDuWhtq_GC1KmAtRVGDkwgNhJhZ8PSs80bbyBPnc_p4iDwWc_ddCF3RAVjv6r5ZtmfBUADzdEx3GtOPZBEkzpDT0tD5tGzeqHAdZuqA0rFEqSA6CBurAxhrf99V672Cp544MHFyR6RPaWdeYZqC_p2QunGYF074ck4bizbaAzG2dIme0uK0VpRFI6OdB8y7qnllNytQugUQxfYEQIG7e4QuJlC_Ts8om3tOHeXnTQa4_RkZeollTcQ5xLF_1SMkWQx_0cqatWNww9HnsdoKoafc_nKfC=w549-h100-no)
+### *********** CÓDIGO EJEMPLO DE PROLOG: *************
 
 Utiliza la lógica matemática que es considerada la manera más sencilla para el intelecto humano de expresar formalmente problemas complejos y de resolverlos mediante la aplicación de regla, hipótesis y teoremas.
