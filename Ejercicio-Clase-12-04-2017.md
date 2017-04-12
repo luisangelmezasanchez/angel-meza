@@ -1,7 +1,7 @@
 Miniespecificacion que permita ingresar dos calificaciones encontrar la suma y el promedio.
 
-### Algoritmo Calificaciones
-### clase Promedio
+### Algoritmo CALCULAR PROMEDIO
+### Clase Promedio
 ### Entrada cali1, cali2, promedio
 ### Escribir "Ingrese la calificacion 1": Entero
 ### <<Leer cali1;
@@ -10,4 +10,4 @@ Miniespecificacion que permita ingresar dos calificaciones encontrar la suma y e
 ### Calcular promedio (cali1 + cali2)/2
 ### <<Imprimir "La nota del promedio es "promedio;
 ### Fin Promedio
-### Fin Calificaciones
+### Fin Calcular Promedio
