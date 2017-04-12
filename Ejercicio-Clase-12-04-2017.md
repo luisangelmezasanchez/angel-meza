@@ -10,4 +10,4 @@ Miniespecificacion que permita ingresar dos calificaciones encontrar la suma y e
 ### Calcular promedio (cali1 + cali2)/2
 ### <<Imprimir "La nota del promedio es "promedio;
 ### Fin Promedio
-### Fin Calcular Promedio
+### Fin
