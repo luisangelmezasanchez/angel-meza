@@ -8,6 +8,6 @@ Miniespecificacion que permita ingresar dos calificaciones encontrar la suma y e
 ### Escribir "cali2": Entero
 ### <<Leer cali2;
 ### promedio (cali1 + cali2)/2
-### Imprimir "La nota del promedio es: promedio;
+### Imprimir "La nota del promedio es:' promedio;
 ### Fin Promedio
 ### Fin Calificaciones
