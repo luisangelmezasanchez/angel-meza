@@ -12,6 +12,6 @@ Luego que se tenga un objeto de la clase Scanner asociado al sistema estándar d
 # EJEMPLO DE LECTURA
 ## Metodo nextInt:
 Da lectura por teclado de un número entero.
-### int n;
-### System.out.print("Introduzca un número entero: ");
-### n = sc.nextInt();
+int n;
+System.out.print("Introduzca un número entero: ");
+n = sc.nextInt();
