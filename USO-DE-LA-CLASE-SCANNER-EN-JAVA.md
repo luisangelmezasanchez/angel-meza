@@ -18,3 +18,16 @@ Luego que se tenga un objeto de la clase Scanner asociado al sistema estándar d
 ### double x;
 ### System.out.print("Introduzca número de tipo double: ");
 ### x = sc.nextDouble();
+## Método next: Da lectura de una cadena
+### String s;
+### System.out.print("Introduzca texto: ");
+### s = sc.next();
+## CÓDIGO JAVA: UTILIZANDO LA CLASE SCANNER CON EL MÉTODO ENTERO.
+### * Programa Ejemplo de Java: Calcular la multiplicación de dos números.
+![](https://lh3.googleusercontent.com/JIScr8_LeCb7-JjfGMZKcAmipgNvNYifjzFmCpD0NqYjVr9Qmv4gKJGQ8LqvPNMAbSVuisUigAg7888nPKflNV322832CYMfY5QhvJ-ZOpP6NYR-bJRiV8aZ_6CP1j63uPyKd7wqNut-E6Z-Pd9YAAe33uQhXgdbNPFX8fgDjetfCwgVwVnrzDdtXQfMtF_1eefU2HVb10bqCq1_SptLF4H8p7VK8Duc-htzZVQcGOVJ5Zj68zXt9tIIC5RLUq4yc045eQJc5Z9po2MUzMBSixC6M-Wc64FadXX0T3yHj5dSkhw5J929WrZzG6CD9SKjHhOfprbkC10Pfr6EHc0mA_ega2lbZWjv36J-aZ_2DZFqWFGetXCXb5wJpHFVQWMnME8DMXnnJJpLSG-rce1lP0RuklAjY-TmZVt1FyWoKpBHb6vmQrI_mDNUvjPi8kLE6CXC71ZyoehrpkCRJVoR73YtVLxcIINqiroW3GgFQxePUD7Jbn1Ew-Q3BwH475k0Dx7E1ybze9bkTDjKoMXPfGFQByVdOggARKXf9MwZvFRWA4auGxtOoF4oprpX_Bvc44w3-imU72dUXrEqsYPMcYPjje_IudRhPbVzGXx2vVgUBj0FaOE-=w793-h486-no)
+## CÓDIGO JAVA: UTILIZANDO LA CLASE SCANNER CON EL MÉTODO DOUBLE
+### * Programa Ejemplo de Java: Calcula y muestra el perímetro y área de un rectángulo, dados la longitud y anchura del rectángulo.
+![](https://lh3.googleusercontent.com/pyNz9qPfwUSOaOuXxAvP9Ry4oqlDKW6lINjS_wXq7gY7F51FQD3xz0OlAfU5IKCG5la85zjCdDwuGNmnrTNFs0rDJoSxrLoUClNhJbdo-gTRXY08IEAEMkBOmuPVuzHMePAeIyZzfOo_Iw3SzPWRxGo2rTDLK6CftsvIcwAt4IUNBiGD6eGWQ06iuMyJ6a-xoIu6HytNiV391fqVt_Z0CwSS_7Sgm6L1KzBA6-odG1aWZ59pVxdFB4x8_3xjn9vKSZAn4X28Mb9yL6nOe8t0x5Hcxn15zZTKSByWBGYWL4o-1h9k8no9Wgc4mvfLquny0lFDNXqIe8YNR8cHoCBJXWUpQ1I_j_4eft27e0MXAwx1r0Mu3Qvt_TQr6VAiMH6dRXgnw_KXgSGVoDFKmZFGyZyC3hqH1b-2UnLHTljUFt0FQn-994SHWxtP74qqmTgg5HUBHeEidUQQOrHquT47t3St474jzONBsAubsQfWkb0CEZXT4lUbKTYo6UvqSKN-90TEXJLVEb2CJGGORunlEAE8WI1j1BCM8ytTh-yiSa3WrdmvXJXqL5IBEWOC3S_gRsEDfXmfrdZiI-JhhqH7-LRTd3QsbSGcLIgfJBvlJ_ARJkaO-KmB=w750-h585-no)
+## CÓDIGO JAVA: UTILIZANDO LA CLASE SCANNER CON EL MÉTODO STRING.
+### * Programa Ejemplo de Java: Hacer un programa el cual nos pregunte nuestro nombre y apellido.
+![](https://lh3.googleusercontent.com/cuHlrlEtHZDk8yKinMbbsnbjVq5ok8omhGrmgJlMI0S35p7jnstkmTiu6GzEFMcjNA4VpOmwRHy76xgnKGZxyV2CSRVJ8SMFcYoCEpZjglX0fqCmb6vpwVuXy4okak0Jn9VWa5TaBK0eGcQ9C8F4CGWYyckVqZM3bte8TMAZ8karJFNf5iTY77KWEL3-180H7GjZShaHFsLPtsVZmes6EvgoF1ohYD0x9wFq8n7E_AaTEmFS7WH2OWk9yc8hBzoqJRlOuDHBgETN-lCETooSEdfimujKo_VvA4Aix5zHRZqEscCEQyVQgOg47fuUssZBtb50mrA10v39U8XefpRsbUIt26fs267SXgSYrZs2I6BbyZY3fBVfa90bMjiZr2AP2Nr62QjADR9WYJsEDOQ_qtsWmcRYVyvI9ctlLuggxlMEjeYb0RhZ4LyOY6cU3E-wBw35LUy9WEzNx4lA-IhK4v9g_-pUJbRn7f5xfLLHL5h5mDlMB6UpUv5TX2J-OKxmQUoDy4qli3WHXUa_Cx6ajQ4ZZaDBN5XIN7kSsUp8xHs_Aa5McnWVj4QaQ9GnNglZ_L7XmWffk320Kk5JAlzqkLWR1m9vIxLMSJlbr6QxsBI05WjyABcf=w625-h433-no)
