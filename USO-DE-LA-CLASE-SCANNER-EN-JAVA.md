@@ -4,3 +4,5 @@
 ### La clase Scanner de Java provee métodos para leer valores de entrada de varios tipos y está localizada en el paquete java.util. Los valores de entrada pueden venir de varias fuentes, incluyendo valores que se entren por el teclado o datos almacenados en un archivo.
 ## 1. Escribir el import
 ### ****** import java.util.Scanner; ******
+### Para utilizar esa clase tenemos que crear primero un objeto de ella para poder invocar sus métodos. La siguiente declaración crea un objeto de la clase Scanner que lee valores de entrada del teclado.
+### ****** Scanner teclado = new Scanner(System.in); ******
