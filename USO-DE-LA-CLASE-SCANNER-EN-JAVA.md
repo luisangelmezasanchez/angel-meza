@@ -5,6 +5,7 @@ La clase Scanner de Java provee métodos para leer valores de entrada de varios 
 ## 1. Escribir el import
 ### ****** import java.util.Scanner; ******
 Para utilizar esa clase tenemos que crear primero un objeto de ella para poder invocar sus métodos. La siguiente declaración crea un objeto de la clase Scanner que lee valores de entrada del teclado.
+## 2. Crear un objeto Scanner
 ### ****** Scanner teclado = new Scanner(System.in); ******
 El propósito de pasar a System.in como argumento es conectar o establecer una relación entre el objeto tipo Scanner, con nombre teclado en la declaración anterior, y el objeto System.in, que representa el sistema estándar de entrada de información en Java. Si no se indica lo contrario, el teclado es, por omisión, el sistema estándar de entrada de información en Java.
 Luego que se tenga un objeto de la clase Scanner asociado al sistema estándar de entrada System.in, llamamos, por ejemplo, su método nextInt para entrar un valor del tipo int. Para entrar otros valores de otros tipos de datos primitivos, se usan los métodos correspondientes como nextByte o nextDouble.
