@@ -31,3 +31,6 @@ Luego que se tenga un objeto de la clase Scanner asociado al sistema estándar d
 ## CÓDIGO JAVA: UTILIZANDO LA CLASE SCANNER CON EL MÉTODO STRING.
 ### * Programa Ejemplo de Java: Hacer un programa el cual nos pregunte nuestro nombre y apellido.
 ![](https://lh3.googleusercontent.com/cuHlrlEtHZDk8yKinMbbsnbjVq5ok8omhGrmgJlMI0S35p7jnstkmTiu6GzEFMcjNA4VpOmwRHy76xgnKGZxyV2CSRVJ8SMFcYoCEpZjglX0fqCmb6vpwVuXy4okak0Jn9VWa5TaBK0eGcQ9C8F4CGWYyckVqZM3bte8TMAZ8karJFNf5iTY77KWEL3-180H7GjZShaHFsLPtsVZmes6EvgoF1ohYD0x9wFq8n7E_AaTEmFS7WH2OWk9yc8hBzoqJRlOuDHBgETN-lCETooSEdfimujKo_VvA4Aix5zHRZqEscCEQyVQgOg47fuUssZBtb50mrA10v39U8XefpRsbUIt26fs267SXgSYrZs2I6BbyZY3fBVfa90bMjiZr2AP2Nr62QjADR9WYJsEDOQ_qtsWmcRYVyvI9ctlLuggxlMEjeYb0RhZ4LyOY6cU3E-wBw35LUy9WEzNx4lA-IhK4v9g_-pUJbRn7f5xfLLHL5h5mDlMB6UpUv5TX2J-OKxmQUoDy4qli3WHXUa_Cx6ajQ4ZZaDBN5XIN7kSsUp8xHs_Aa5McnWVj4QaQ9GnNglZ_L7XmWffk320Kk5JAlzqkLWR1m9vIxLMSJlbr6QxsBI05WjyABcf=w625-h433-no)
+### BIBLIOGRAFÍAS
+## USO DE LA CLASE JAVA
+### http://www.programacion-java.carimobits.com/Documentos%20en%20PDF/La_clase_estandar_Scanner_de_Java%20v%202Web.pdf
