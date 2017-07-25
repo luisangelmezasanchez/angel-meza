@@ -6,5 +6,6 @@
 ### Carrera: Sistemas Informáticos y Computación
 ### Materia: Fundamentos de la programación
 ### Paralelo: "B"
-### Universidad: UTPL
+### Institución: Universidad Técnica Particular de Loja
 ### Fecha: 25 Julio 2017
+
