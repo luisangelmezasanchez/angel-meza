@@ -82,6 +82,7 @@
 ### * Multiplicación y división
 ### * Operaciones combinadas
 ### * Tutorial
+
 ![](https://lh3.googleusercontent.com/8MxafPwsfO6JnqnSf57KBTvCN4Pn_4uGO267_KCpSi-kiCDunN4NdtDUgVcCduUBOQ8EEgrayGADMyGFqVkIRx0B_RqXb4L1zxwlcEU8FlgMuUrqgZL28vq-dc60HLBEule7-IZcnSXWE-yOC8zw9PRP5yvdLRBPd9z42Z5nayo5mzjbWL51yk227fQNPfZRNvAt6LvOHW2t_B9kD12-nLefxKbsETLkoWsZjTmvSm-p4otFJbSyeFyUoNDvs-idneY5BwBWDqT63wHSllR7HTa3Tf7D9ZDKh2dReXdFafg_bkGTnlD1no0Z2z8kqP-LDztKy_vroNDhyhGT6c_X3GBrw0i0hSKG1vN1KDHPPYty9Gp6lP_7FDcQKR3mTSKr-OA_OxUFhA0bAQMBm-Pi8mljGPUOQWoMD718-2Dt3Yvypgi_7ImrgqBxPkDlpkcjioG-yzkMG1zt58iEonLDf5fPRMjiooseA8_Fa5dlomZBSnKE0Ndo6jYdItLd_kxtZO9_BKrW-T5XM6wsy8J_DH-Np_AqBvD98mE3PLBZ5hG4U-gpudH8KxDaJiEkSup_sFzSWiYoVsYAw6FR_ITJKFAXw_sUIPQX4j4hagWluEaylam50FB_DEb8=w879-h638-no)
 
 ## Interfaz del juego en proceso.
