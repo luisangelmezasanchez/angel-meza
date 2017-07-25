@@ -8,7 +8,7 @@ pilas = pilasengine.iniciar() # Para iniciar pilas engine
 musica = pilas.sonidos.cargar("sonidos/bienvenida.wav")# Se carga un sonido.
 musica.reproducir()# Se reproduce el sonido.
 
-# --------------------------------------------------- INICIO CODIGO PRESENTACION DEL JUEGO ----------------------------------------------- #
+#--------------------------------------------------- INICIO CODIGO PRESENTACION DEL JUEGO -----------------------------------------------#
 
 class InicioJuego(pilasengine.escenas.Escena):# Clase para crear la pantalla de bienvenida inicial del juego
 
