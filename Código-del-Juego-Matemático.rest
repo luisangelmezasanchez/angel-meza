@@ -42,6 +42,7 @@ class InicioJuego(pilasengine.escenas.Escena):# Clase para crear la pantalla de 
 # -------------- FIN CODIGO DE PRESENTACION DEL JUEGO -------------------------- #
 
 # ------------- INICIO: MENU DE INICIO PARA JUGAR -------------------------------- #
+
 class EscenaMenu(pilasengine.escenas.Escena): # Clase para crear la escena del menu principal del juego
 	def iniciar(self): # Se inicia la clase
 		self.fondo = self.pilas.fondos.Fondo("imagenes/menu_principal.png") # Se carga un fondo a la escena principal del juego
@@ -88,6 +89,7 @@ class EscenaMenu(pilasengine.escenas.Escena): # Clase para crear la escena del m
 # -------------------- FIN: MENU DE INICIO PARA JUGAR --------------------- #
 
 # ----------------- INICIO: OPERACIONES PARA JUGAR ------------------------ #
+
 class EscenaOperaciones(pilasengine.escenas.Escena): # Clase para crear la escena del segundo menu de opciones del juego.
 	def iniciar(self): # Se inicia la clase
 		self.fondo = self.pilas.fondos.Fondo("imagenes/menu_operaciones.png") # Se carga un fondo a la escena de operaciones del juego
