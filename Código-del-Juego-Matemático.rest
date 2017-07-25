@@ -8,7 +8,7 @@ pilas = pilasengine.iniciar() # Para iniciar pilas engine
 musica = pilas.sonidos.cargar("sonidos/bienvenida.wav")# Se carga un sonido.
 musica.reproducir()# Se reproduce el sonido.
 
-#--------------------------------------------------- INICIO CODIGO PRESENTACION DEL JUEGO -----------------------------------------------#
+#-------------------- INICIO CODIGO PRESENTACION DEL JUEGO -------------------#
 
 class InicioJuego(pilasengine.escenas.Escena):# Clase para crear la pantalla de bienvenida inicial del juego
 
@@ -38,9 +38,9 @@ class InicioJuego(pilasengine.escenas.Escena):# Clase para crear la pantalla de 
         actor.y = -200 # Ubicación de la imagen en el eje y.
         actor.x = [400, 400, 270], 0.5 # Animación de la imagen
 		
-# ----------------------------------------------------- FIN CODIGO DE PRESENTACION DEL JUEGO ---------------------------------------------- #
+# -------------- FIN CODIGO DE PRESENTACION DEL JUEGO -------------------------- #
 
-# ----------------------------------------------------- INICIO: MENU DE INICIO PARA JUGAR ------------------------------------------------- #
+# ------------- INICIO: MENU DE INICIO PARA JUGAR ---------------------------- #
 class EscenaMenu(pilasengine.escenas.Escena): # Clase para crear la escena del menu principal del juego
 	def iniciar(self): # Se inicia la clase
 		self.fondo = self.pilas.fondos.Fondo("imagenes/menu_principal.png") # Se carga un fondo a la escena principal del juego
@@ -84,9 +84,9 @@ class EscenaMenu(pilasengine.escenas.Escena): # Clase para crear la escena del m
 	def Ir_al_juego(self): # Funcion que nos envia a la escena operaciones
 		pilas.escenas.EscenaOperaciones() # Se llama a la escena enlazada
 		
-# ----------------------------------------------------- FIN: MENU DE INICIO PARA JUGAR ------------------------------------------------- #
+# -------------------- FIN: MENU DE INICIO PARA JUGAR --------------------- #
 
-# ----------------------------------------------------- INICIO: OPERACIONES PARA JUGAR ------------------------------------------------- #
+# ----------------- INICIO: OPERACIONES PARA JUGAR ------------------------ #
 class EscenaOperaciones(pilasengine.escenas.Escena): # Clase para crear la escena del segundo menu de opciones del juego.
 	def iniciar(self): # Se inicia la clase
 		self.fondo = self.pilas.fondos.Fondo("imagenes/menu_operaciones.png") # Se carga un fondo a la escena de operaciones del juego
@@ -129,9 +129,9 @@ class EscenaOperaciones(pilasengine.escenas.Escena): # Clase para crear la escen
 	def IrSuRes(self): # Funcion que nos envia a una escena enlazada
 		pilas.escenas.EscenaSumaResta() # Se llama a la escena enlazada
 		
-# ----------------------------------------------------- FIN: OPERACIONES DE INICIO PARA JUGAR ------------------------------------------------- #
+# --------------- FIN: OPERACIONES DE INICIO PARA JUGAR --------------------------- #
 
-# ----------------------------------------------------- INICIO: ESCENA DE CREDITOS ------------------------------------------------- #
+# ------------------- INICIO: ESCENA DE CREDITOS ------------------------------- #
 
 class EscenaCreditos(pilasengine.escenas.Escena): # Clase para crear la escena de créditos.
 	def iniciar(self): # Se inicia la clase
@@ -147,9 +147,9 @@ class EscenaCreditos(pilasengine.escenas.Escena): # Clase para crear la escena d
 	def Volver(self): # Funcion para volver a la escena enlazada
 		pilas.escenas.EscenaMenu() # Se llama a la escena enlazada
 		
-# ----------------------------------------------------- FIN: ESCENAS DE CREDITOS ------------------------------------------------- #
+# ------------------------ FIN: ESCENAS DE CREDITOS ------------------------------- #
 
-# ----------------------------------------------------- INICIO: ESCENA DE AYUDA ------------------------------------------------- #
+# ------------------------- INICIO: ESCENA DE AYUDA ------------------------------- #
 
 class EscenaAyuda(pilasengine.escenas.Escena): # Clase para crear la escena de ayuda.
 	def iniciar(self): # Se inicia la clase
@@ -166,9 +166,9 @@ class EscenaAyuda(pilasengine.escenas.Escena): # Clase para crear la escena de a
 	def Volver(self): # Funcion para volver a una escena definida
 		pilas.escenas.EscenaMenu() # Conecta con la escena principal de menu
 		
-# ----------------------------------------------------- FIN: ESCENA DE AYUDA ------------------------------------------------- #
+# --------------------- FIN: ESCENA DE AYUDA ------------------------- #
 
-# ----------------------------------------------------- INICIO: ESCENA DE SUMA Y RESTAS ------------------------------------------------- #
+# ---------------- INICIO: ESCENA DE SUMA Y RESTAS ------------------------- #
 
 class EscenaSumaResta(pilasengine.escenas.Escena):  # Clase para crear la escena de suma y resta.
 	def iniciar(self): # Se inicia la clase
@@ -441,9 +441,9 @@ class EscenaSumaResta(pilasengine.escenas.Escena):  # Clase para crear la escena
 	def actualizar(self): # Funcion que actualiza los objetos en la pantalla del juego
 		pass
 		
-# ----------------------------------------------------- FIN: ESCENA DE SUMAS Y RESTAS ------------------------------------------------- #
+# ----------------- FIN: ESCENA DE SUMAS Y RESTAS ------------------------- #
 
-# ----------------------------------------------------- INICIO: ESCENA DE MULTIPLICACIONES Y DIVISIONES ------------------------------------------------- #
+# ---------------- INICIO: ESCENA DE MULTIPLICACIONES Y DIVISIONES --------------- #
 		
 class EscenaMultiplicacionDivision(pilasengine.escenas.Escena): # Clase para crear la escena de suma y resta.
 	def iniciar(self): # Se inicia la clase
@@ -716,9 +716,9 @@ class EscenaMultiplicacionDivision(pilasengine.escenas.Escena): # Clase para cre
 	def actualizar(self): # Funcion que actualiza los objetos en la pantalla del juego
 		pass
 		
-# ----------------------------------------------------- FIN: ESCENA DE MULTIPLICACIONES Y DIVISIONES ------------------------------------------------- #
+# -------------- FIN: ESCENA DE MULTIPLICACIONES Y DIVISIONES ----------------------- #
 
-# ----------------------------------------------------- INICIO: ESCENA DE OPERACIONES COMBINADAS ------------------------------------------------- #
+# ------------- INICIO: ESCENA DE OPERACIONES COMBINADAS ------------------------ #
 		
 class EscenaOperacionesCombinadas(pilasengine.escenas.Escena): # Clase para crear la escena de operaciones combinadas
 	def iniciar(self): # Se inicia la clase
@@ -992,7 +992,7 @@ class EscenaOperacionesCombinadas(pilasengine.escenas.Escena): # Clase para crea
 	def actualizar(self): # Funcion que actualiza los objetos en la pantalla del juego
 		pass
 		
-# ----------------------------------------------------- FIN: ESCENA DE OPERACIONES COMBINADAS ------------------------------------------------- #
+# -------------- FIN: ESCENA DE OPERACIONES COMBINADAS --------------------- #
 
 # Se vinculan las escenas creadas.
 pilas.escenas.vincular(EscenaSumaResta)
