@@ -45,8 +45,17 @@
 ### Una vez abierto el programa, arrastramos el archivo de nuestro juego al espacio donde dice: “Puede ejecutar archivos.py arrastrándolos aquí” automáticamente se ejecutará el juego.
 ### Dentro del juego nos mostrara una pantalla de bienvenida y hacemos clic para iniciar.
 ### Nos redirigirá al menú principal, donde el personaje nos mostrará un mensaje haciendo clic en el mismo.
-### Tiene opciones de:
-### * ****Jugar ahora: Nos enviará a otro menú donde habrá 4 opciones a elegir.
+## Tiene opciones de:
+### * Jugar ahora: Nos enviará a otro menú donde habrá 4 opciones a elegir.
 ### * Ayuda: Nos mostrara instrucciones a seguir para jugar correctamente el juego.
 ### * Créditos: Indica información del juego y del desarrollador.
 ### * Salir: Opción que permite finalizar el juego
+## Al presionar en la opción Jugar Ahora nos enviara a un menú que consta de 3 opciones.
+### * Sumas y restas
+### * Multiplicación y división
+### * Operaciones combinadas
+### * Tutorial: Instrucciones para jugar
+## ¿Cómo ganar?
+### El juego tiene un límite, si el usuario responde 10 preguntas correctas gana el juego.
+## ¿Cómo pierdo? 
+### En el caso que responda 3 preguntas mal pierde el juego automáticamente, seguidamente el juego mostrara los detalles de la partida del usuario.
