@@ -8,6 +8,7 @@
 ### Fecha: 25 Julio 2017
 ## PROYECTO FINAL 2 BIMESTRE HECHO EN PILAS ENGINE
 ## Proyecto: Realizar un juego en pilas engine
+![](https://lh3.googleusercontent.com/Ldcon02qq1LtNOIfLMEKkW-CCnpaxMMQJvKTYJ03r9l4LtH4MmV90FmxJGHTN9epA9yGYnCdqGDfqgY08Ef5zSXF2TisGzLV2-cWQ5DLBlx3Uh0TWery6CvM01mTmH3zRFbb218Ehndrt4RCwriCa_S8m_rntWiTaMuEfKHsDYPewCUI1FOg8QhpGEFEMB4UXBuzvA9viKfojap7vI3oKFjjsiYCcyI4fC-8UPyDdjQ_nl7rHAasULWpu3fJdMW2ci9fi3qJSf9ZmhT7u5hnGfA15ZkH7RBnSH2RuXlLfa-leEEaagmL73WkMGtjXO92Yi9gs6Is-2ysJH8MY05rMDRMsjpywuN1JDA_UXp4Z7NcO7Voja4F4A2WmYxLAakZ5WkxrS-Y4BtXpWeYqjugsyHnKWIpMZjRRM-8-Ae6kJDAswSRCKMZJRYN0rAqtTcWyhyb-vwZVwkQ78zbGoRTWJFtKbFdpfNpq2RU4Nxq5x9tweI1Zviq2wB_XfMZSHU0POgkRZUl0xH27m4Tka0E6PE-nsjaJEmVWtit-q7DasvCV0wH1oiyL2vCH4UtpQQQNy2tnUjurn2vhyzaSOqPM-Usppuad1-JWaiavgA7gpDaO6ClUNFvEit1=w466-h238-no)
 ## Objetivo General:
 ### * Desarrollar un juego educativo basado en pilas engine que permita a los estudiantes de educación básica suplementar el aprendizaje del estudio de las operaciones matemáticas simples y analizar la interacción con la herramienta pilas engine.
 ## Objetivos Específicos:
