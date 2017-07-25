@@ -1,4 +1,4 @@
-# PROYECTO FINAL 2 BIMESTRE
+##  PROYECTO FINAL 2 BIMESTRE
 ### Proyecto: Realizar un juego en pilas engine
 ### Tema del juego: "Aprendamos Matemáticas"
 ### Alumno: Máximo Abel Paute Jumbo
