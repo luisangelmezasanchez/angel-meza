@@ -1,2 +1,0 @@
-## Titulo
-### "Aprendamos Matemáticas"
