@@ -69,6 +69,7 @@
 ## Anexos.
 ### Pantalla de bienvenida
 ![](https://lh3.googleusercontent.com/a8WO3LxUAe9gjAMnqqsp2_UTWoIZKT4haTu23J7AAaqFzeUBmR3Eh5Atpst0VvxL9Bz3RV22D5QgQOunW0t0qN0FTts86FKcaZfstdb5QFcgK8ulbETJ1m3cTUzFWv2YGjmT1FDPtbKIuFnnbajAPamQ_wdWOAUetKdwjRHkNQxrGD8Dw4m-3J-lsUU5LUYlXWrfLipzfGjt79-dyS8Lp1M3rZDrlrNBy1ihehv4EQPos3Q-xu1Nj3io_ZjzGfRxExJvJuDAstVdsW9_mSvbwLfzKg0-Y72IzKyDQm5LTMDzZ63hnUfJElEbBWwkIJA18eh9I530CWx2LU-vCP0ebMybJlg7oKV3e82J0VXJbi2KcUbN-w6j4b9bXs41toPbtTpq4G-rk_wQChoCsSQED0yiILErKQgw3pZbb0GKIhDHOxMmW8UWHkSJ78pXyjhJMDuQUe5J5-YePb3NX3o1ZByOz266dHvPfk7bcm8OR0IqGozU46XCtRTb8fnvd3BqcdZ7eLB9U51kespK5c_ALJ9jHOAdWfgEhqgPRMCDWnuMzA1UVSFR9EcNwC36o-QOSRIyHy1XtLj1HNHqztJwSr4691ijTskHjG0uOVG_dVe4aPGqHMXHH9tn=w875-h638-no)
+
 ## Menú principal. 
 ### * Jugar ahora
 ### * Ayuda
